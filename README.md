@@ -1,2 +1,8 @@
 # CompetitiveCoding
-Just me doing some easy-medium contest problems. The key was to do it in O(fast enough)
+Just me doing some contest problems. The key was to do it in O(fast enough)
+
+#Contests/Sites I write On
+- DMOJ
+- FBHackerCup
+- USACP
+- Woburn
