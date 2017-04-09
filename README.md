@@ -1,8 +1,20 @@
 # CompetitiveCoding
-Just me doing some contest problems. The key was to do it in O(fast enough)
+Just me doing some contest problems. Just tracking scores for accountability
 
-# Contests/Sites I write On
+# Contests I've Written
+- FaceBookHackerCup2017
+  - Round 0:
+    - Rank: 7834
+    - Score: 25
+  - Round 1:
+    - Score: 0
+- GoogleCodeJam2017
+  - Round 0:
+    - Rank 15130
+    - Score: 35
+
+#Sites I Write On
+- LeetCode
 - DMOJ
-- FBHackerCup
-- USACP
-- Woburn
+- WOBURN
+- USACO
